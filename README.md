@@ -1,4 +1,4 @@
-### Nicanor Korir 👋
+### Hello World 👋
 
 I'm a✨ Software Engineer and a mentor✨ . I'm Passionate about sharing knowledge and learning new awesome stuff.
 
