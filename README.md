@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a✨ Software Engineer and a mentor✨ . I'm Passionate about sharing knowledge and learning new awesome stuff.
+I'm a✨ Software Engineer and a mentor✨ . I'm Passionate about sharing knowledge and learning new awesome stuff. I'm obsessed with my mentoring those interested in tech stuff at [Shoman mentorship Platform](https://shoman.netlify.app/)
 
 Here are some ideas to get you started:
 
