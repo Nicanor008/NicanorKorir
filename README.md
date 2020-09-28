@@ -4,8 +4,7 @@ I'm a✨ Software Engineer and a mentor✨ . I'm Passionate about sharing knowle
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Awesome Stuff
-- 🌱 I’m currently learning DevOps(GCP) & Data Strcutures & Algorithms(DSA)
+- 🔭 I’m currently learning and working on Awesome Stuff
 - 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about JS | MERN | Python | Pencil Art Drawing | Mentorship | 
 - 📫 How to reach me: [DM On Twirra @nicanor_nic](https://twitter.com/nicanor_nic)
